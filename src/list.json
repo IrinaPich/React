@@ -1,0 +1,6 @@
+{"items": [
+        {"brand":"Samsung","model": "Note 8","price":"500"},
+        {"brand": "Apple", "model": "Iphone 10", "price": "1000"},
+        {"brand": "Xiaomi", "model": "Mi 10", "price": "400"}
+    ]
+}
